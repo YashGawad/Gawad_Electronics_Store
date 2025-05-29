@@ -1,0 +1,33 @@
+{
+  "name": "gawad-electronics-store",
+  "version": "1.0.0",
+  "description": "A modern, responsive electronics store website built with Next.js and Tailwind CSS.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "nextjs",
+    "ecommerce",
+    "electronics",
+    "tailwindcss"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.4.2",
+    "dotenv": "^16.5.0",
+    "next": "latest",
+    "postcss": "^8.4.5",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^2.2.19"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-next": "^12.0.7"
+  }
+}
